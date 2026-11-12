@@ -10,7 +10,7 @@ Tethered shooting for Mac, Capture One style: plug in your camera and every shot
 
 1. Double-click **RRaw-Tether.dmg**.
 2. Drag **RRaw Tether** onto the **Applications** folder.
-3. Open it from Applications. The first time, macOS says it can't verify the app: click **Done**, then go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
+3. Open it from Applications. That's it: RRaw Tether is signed and approved by Apple, so it opens with no security warning.
 
 ## Updates
 
