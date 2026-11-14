@@ -2,6 +2,10 @@
 
 Tethered shooting for Mac, Capture One style: plug in your camera and every shot lands in your session the moment you take it. Sessions with Capture / Selects / Output / Trash, automatic backup, shot list, colour tags, histogram, vectorscope, false colour, crop guides and a see-through reference overlay. Works with Sony (PC Remote) and Canon EOS, plus other cameras through macOS.
 
+## Watch the 1-minute tour
+
+https://github.com/user-attachments/assets/d859603a-f023-496c-92f5-7595bfb73c47
+
 ## Download
 
 **[⬇︎ Download the newest version](https://github.com/robertarnar98/RRawTether-Download/releases/latest)**: click **RRaw-Tether.dmg** under *Assets*.
